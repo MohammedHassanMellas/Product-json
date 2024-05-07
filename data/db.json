@@ -1,0 +1,221 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODkvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1tZWQiLCJsYXN0dG5hbWUiOiJIYXNzYW4iLCJlbWFpbCI6Im1vaGFtbWVkaGFzc2FuLm1lbGxhc0BnbWFpbC5jb20iLCJyb2xlIjpbIlVTRVIiXX0.fSg9R6fHhWFglTj3b7Ww0wfeTCG7WRSzsfVnR4-Y3vQ"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODkvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1tZWQiLCJsYXN0dG5hbWUiOiJIYXNzYW4iLCJlbWFpbCI6Im1vaGFtbWVkaGFzc2FuLm1lbGxhc0BnbWFpbC5jb20iLCJyb2xlIjpbIlVTRVIiXX0.LS47b5phIL1K7Vv6cJwNSQXWylPS_NOljYI0K2Bt54g"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwODkvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1tZWQiLCJsYXN0dG5hbWUiOiJIYXNzYW4iLCJlbWFpbCI6Im1vaGFtbWVkaGFzc2FuLm1lbGxhc0BnbWFpbC5jb20iLCJyb2xlIjpbIlVTRVIiLCJBRE1JTiJdfQ.yRzM1oLE9boD96e3PVQwwjeQWcDDED2egTTlN6CtWcw"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer Dell",
+      "price": "0112",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 4567,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Laptop",
+      "price": "7890",
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Scaner",
+      "price": 3214,
+      "checked": true
+    },
+    {
+      "name": "tgg",
+      "price": "4545",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "observe": "response",
+      "id": 26
+    },
+    {
+      "observe": "response",
+      "id": 27
+    },
+    {
+      "observe": "response",
+      "id": 28
+    },
+    {
+      "observe": "response",
+      "id": 29
+    },
+    {
+      "observe": "response",
+      "id": 30
+    },
+    {
+      "observe": "response",
+      "id": 31
+    },
+    {
+      "observe": "response",
+      "id": 32
+    },
+    {
+      "observe": "response",
+      "id": 33
+    },
+    {
+      "observe": "response",
+      "id": 34
+    },
+    {
+      "observe": "response",
+      "id": 35
+    },
+    {
+      "observe": "response",
+      "id": 36
+    },
+    {
+      "observe": "response",
+      "id": 37
+    },
+    {
+      "observe": "response",
+      "id": 38
+    },
+    {
+      "observe": "response",
+      "id": 39
+    },
+    {
+      "observe": "response",
+      "id": 40
+    },
+    {
+      "observe": "response",
+      "id": 41
+    },
+    {
+      "observe": "response",
+      "id": 42
+    },
+    {
+      "observe": "response",
+      "id": 43
+    },
+    {
+      "observe": "response",
+      "id": 44
+    },
+    {
+      "observe": "response",
+      "id": 45
+    },
+    {
+      "observe": "response",
+      "id": 46
+    },
+    {
+      "observe": "response",
+      "id": 47
+    },
+    {
+      "name": "jawad",
+      "price": "12344",
+      "checked": true,
+      "id": 48
+    },
+    {
+      "id": 49,
+      "name": "lalala",
+      "price": "1234",
+      "checked": false
+    }
+  ]
+}
